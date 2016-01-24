@@ -1,3 +1,1 @@
-gunicorn
 bokeh
-Jinja2
