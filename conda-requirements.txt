@@ -1,0 +1,4 @@
+gunicorn
+Jinja2
+Flask
+Werkzeug
