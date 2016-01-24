@@ -1,4 +1,3 @@
 gunicorn
+bokeh
 Jinja2
-Flask
-Werkzeug
