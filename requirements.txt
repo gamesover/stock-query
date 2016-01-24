@@ -1,4 +1,4 @@
 Flask
 requests
 Jinja2
-guinicorn
+gunicorn
